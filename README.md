@@ -1,4 +1,4 @@
-中文说明[README_CN.md](README_CN.md)
+中文说明[README.zh_CN.md](README.zh_CN.md)
 # midjourney-python-api
 This is a Python client for the unofficial MidJourney API, This implementation uses a Discord self bot, and utilizes this library: Merubokkusu/Discord-S.C.U.M. Please be aware that there might be a risk of being banned.
 
