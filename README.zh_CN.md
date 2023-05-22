@@ -20,7 +20,13 @@
 ### 通过 pip
 ```bash
 # 使用 pip，创建虚拟环境
-python -m .venv
+python -m venv .venv
+
+# 如果您使用windows系统，请使用下一句激活
+.venv\Scripts\activate
+# 如果您使用Mac或Linux，请使用下一句激活
+source .venv/bin/activate
+
 pip install -r requirements.txt
 ```
 
