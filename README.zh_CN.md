@@ -27,6 +27,8 @@ python -m venv .venv
 # 如果您使用Mac或Linux，请使用下一句激活
 source .venv/bin/activate
 
+# 如因网络等原因无法直接安装，请先用浏览器打开https://github.com/Merubokkusu/Discord-S.C.U.M
+# 然后下载、解压，到相应目录执行python setup.py install来安装的。
 pip install -r requirements.txt
 ```
 
